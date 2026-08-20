@@ -11,7 +11,7 @@ sections:
     id: home
     content:
       title: "Hi, I'm sk."
-      text: "A student, tutor and lifelong learner."
+      text: "A loosely organised archive of personal notes, shared resources, and other things worth keeping"
       primary_action:
         text: "Explore"
         url: "#explore"
@@ -94,12 +94,12 @@ sections:
       text: |
         **Currently:**
 
-        📚 Preparing for university applications  
-        🧪 Building A-Level Chemistry resources  
-        👩‍🏫 Starting tutoring  
-        🇩🇪 Learning German  
-        🚗 Learning to drive  
-        ✈️ Planning some travelling
+         Preparing for university applications  
+        Building A-Level Chemistry resources  
+        Starting tutoring  
+        Learning German  
+        Learning to drive  
+        Planning some travelling
     design:
       spacing:
         padding: ["4rem", "0", "5rem", "0"]
